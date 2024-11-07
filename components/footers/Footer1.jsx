@@ -143,7 +143,7 @@ export default function Footer1() {
                         <i className="fa-regular fa-arrow-right-long" />
                       </button>
                     </form>
-                    <form id="termsForm">
+                    {/* <form id="termsForm">
                       <label className="custom-checkbox">
                         <input
                           type="checkbox"
@@ -160,7 +160,7 @@ export default function Footer1() {
                         </Link>
                       </label>
                       <br />
-                    </form>
+                    </form> */}
                   </div>
                 </div>
               </div>
